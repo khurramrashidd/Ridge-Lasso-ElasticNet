@@ -1,4 +1,4 @@
-# Ridge, Lasso, and ElasticNet Regression
+# Ridge, Lasso, and ElasticNet Regression    
 
 This project demonstrates **linear regression with regularization** using **Ridge (L2)**, **Lasso (L1)**, and **ElasticNet (L1 + L2)** models in scikit-learn.
 
